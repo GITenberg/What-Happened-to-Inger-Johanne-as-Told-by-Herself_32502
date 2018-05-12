@@ -10,7 +10,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/26003
   translator:
     agent_name: Poulsson, Emilie
-    birthdate: &id001 1853
+    birthdate: 1853
     deathdate: 1939
     gutenberg_agent_id: '26809'
     url: http://www.gutenberg.org/2009/agents/26809
@@ -23,11 +23,13 @@ creator:
     aliases:
     - Zwilgmeyer, Henriette
     - Johanne, Inger
-    birthdate: *id001
+    birthdate: 1853
     deathdate: 1913
     gutenberg_agent_id: '35879'
     url: http://www.gutenberg.org/2009/agents/35879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32502#What-Happened-to-Inger-Johanne-as-Told-by-Herself
 gutenberg_issued: '2010-05-23'
 gutenberg_type: Text
 identifiers:
